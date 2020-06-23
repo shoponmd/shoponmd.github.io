@@ -26,6 +26,7 @@ navbar-links:
   Projects: 'projects'
   Publications: 'publications'
   My Resume: 'Resume.pdf'
+  Achievement: 'aboutme'
   About Me: 'aboutme'
   # Dropdown menu in Navbar
   # Resources:
