@@ -1,8 +1,7 @@
 ---
 layout: post
-image: "img/thesis_resized.jpg"
+image: "/img/thesis_resized.jpg"
 title: থিসিস নাকি প্রজেক্ট নাকি দুটোই??
-avatar: "img/authors/shopon.jpg"
 author: "Shopon"
 tags:
   - Thesis
