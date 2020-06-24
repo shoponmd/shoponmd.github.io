@@ -2,6 +2,8 @@
 layout: page
 use-site-title: true
 bigimg: '/img/home.gif'
+image: /img/authors/shopon.jpg
+
 title: GAN for image generation
 tags:
   - GAN
