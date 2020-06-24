@@ -103,7 +103,7 @@ This is a collection of the research work that I have done till now.
 - **Conference:**  International Conference on Electronic Systems and Intelligent Computing
 - **Publication Year:** 2020
 - **Authors**: Shopon, M
-- **Link:**: Will Publish Soon
+- **Link:** Will Publish Soon
 
 <br/>
 
@@ -122,4 +122,6 @@ This is a collection of the research work that I have done till now.
 - **Publication Year:** 2020
 - **Authors**: Shahin.M, Ahmed.T, Rahman.S, Shopon.M,
 - **Link:** Will Publish Soon
+
+<br/>
 ---
