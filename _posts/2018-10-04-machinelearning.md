@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 comments: true
 title: মেশিন লার্নিং কিভাবে শুরু করব ? 
 image: "img/ml resized.jpg"

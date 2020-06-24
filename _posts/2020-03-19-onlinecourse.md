@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 comments: true
 author: "Shopon"
 avatar: "img/authors/shopon.jpg"
