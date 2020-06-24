@@ -7,7 +7,7 @@ bigimg: '/img/home.gif'
 
 
 <p align="center">
-  <img  src="/img/online_resized.jpg">
+  <img  src="/img/onlinecourse.jpg">
 </p>
 <!-- ![Online Course](/img/online_resized.jpg)<br/> -->
 <br/>
