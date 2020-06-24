@@ -2,8 +2,8 @@
 layout: post
 comments: true
 author: "Shopon"
-avatar: img/authors/shopon.jpg
-image: img/online_resized.jpg
+avatar: /img/authors/shopon.jpg
+image: /img/online_resized.jpg
 title: Utilize your time by taking any of these free of cost online courses 
 tags:
   - Online Course
