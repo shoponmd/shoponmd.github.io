@@ -25,5 +25,7 @@ Usually one would use the labels 0 (image is fake) and 1 (image is real). Using 
 * model_opt: we need to bear in mind that we optimize both, generator and discriminator at the same time but [diferencing trainable parameters independently](https://www.tensorflow.org/programmers_guide/variables#sharing-variables). 
 
 * train: put all together. It includes a component to print what is created by the generator every certain number of batches. That is useful in order to watch how fast the model is learning, thus how the generator is learning to fool the discriminator. During training we update both networks at the same time, so we need both losses. 
-
+<p align="center">
+  <img  src="/img/gan_screenshot.png">
+</p>
 After tuning the model and prove it on the MNIST dataset, we proceed to generate faces feeding the discriminator with CelebA. The final predicted or generated faces are not so bad since most of the generated faces are actual human beings. However this model could be improved by using leaky relus instead of relus, that would increase the computation cost. Generally, leaky relu's are quite important because is the way that the generator can learn by receiving the gradient from the discriminator. Leaky relu outputs close to zero values for negative values instead of zero, which is an attempt to fix the dying relu problem. 
