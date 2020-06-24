@@ -4,6 +4,7 @@ title: DAAD-WISE Internship Experience
 subtitle: A two-month summer research internship at Germany
 image: /img/daad_wise_1.jpg
 tags: [travel, internships]
+publish: false
 ---
 
 I was overjoyed when I received the email for acceptance into the **Deutscher Akademischer Austausch-Dienst – Working Internship in Science and Engineering (DAAD-WISE)** at the **Language Technology Research Group in Universität Hamburg** under the guidance of Prof. Chris Biemann at **Hamburg, Germany**.
