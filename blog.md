@@ -5,13 +5,24 @@ subtitle: Programmer | Artificial Intelligence Enthusiast
 use-site-title: true
 bigimg: '/img/home.gif'
 ---
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-      - <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
-    </li>
-  {% endfor %}
+
+
+{% if paginator.total_pages > 1 %}
+<ul class="pager main-pager">
+  {% if paginator.previous_page %}
+  <li class="previous">
+    <a
+      href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"
+      >&larr; Newer Posts</a
+    >
+  </li>
+  {% endif %} {% if paginator.next_page %}
+  <li class="next">
+    <a
+      href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"
+      >Older Posts &rarr;</a
+    >
+  </li>
+  {% endif %}
 </ul>
+{% endif %}
