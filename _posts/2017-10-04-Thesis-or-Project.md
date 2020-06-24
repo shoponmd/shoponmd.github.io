@@ -1,17 +1,16 @@
 ---
-layout: post
-image: "/img/thesis_resized.jpg"
+layout: page
 title: থিসিস নাকি প্রজেক্ট নাকি দুটোই??
-author: "Shopon"
-tags:
-  - Thesis
-  - Project
-  - Research
+use-site-title: true
+bigimg: '/img/home.gif'
 ---
+
+
+
 আস সালামু আলায়কুম,
 কি অবস্থা সবার? আমার এই পোস্ট টা লিখার মোটিভেশন টা আসলে অনেক দিন আগে থেকেই এসেছিলো, যখন UAP CSE Researchers Hub নামে গ্রুপ টা ওপেন করলাম, তখন অনেকেই জিজ্ঞেস করত কিছু ব্যাপার
 
-![]({{ "/images/route3.jpg" }})
+![]({{ "/images/route3.jpg"}})
 
 আস সালামু আলায়কুম,
 কি অবস্থা সবার? আমার এই পোস্ট টা লিখার মোটিভেশন টা আসলে অনেক দিন আগে থেকেই এসেছিলো, যখন UAP CSE Researchers Hub নামে গ্রুপ টা ওপেন করলাম, তখন অনেকেই জিজ্ঞেস করত কিছু ব্যাপার

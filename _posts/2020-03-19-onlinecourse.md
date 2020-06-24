@@ -1,47 +1,13 @@
 ---
 layout: page
-title: Hi! I'm Shopon
-subtitle: Programmer | Artificial Intelligence Enthusiast
+title: Utilize your time by taking any of these free of cost online courses
 use-site-title: true
 bigimg: '/img/home.gif'
 ---
 
-<!-- Typed.js -->
-<script src="/js/jquery-1.11.2.min.js"></script>
-<!-- Typed.js uses old jquery ver -->
-<script src="/js/typed.js" type="text/javascript"></script>
-<script>
-  $(function() {
-    $('.typed').typed({
-      strings: [
-        'Research.',
-        'Programming.',
-        'Higher Study.',
-        'Learning.',
-        'Travel.'
-      ],
-      typeSpeed: 100,
-      loop: true,
-      backDelay: 1000
-    });
-  });
-</script>
 
-<div class="mobile-js-hide">
-  <div class="row">
-    <div class="col-sm-12">
-      <div class="text-center">
-        <h1>
-          I write about <span class="typed" style="color:#890000" ;></span>
-        </h1>
-      
-      </div>
-    </div>
-  </div>
-</div>
 
-# Utilize your time by taking any of these free of cost online courses
-
+![Online Course](/img/online_resized.jpg)
 I am writing this post to the students who are currently passing their time home by doing nothing apart from browsing Facebook. At this time try to do at least some productive things, just don’t let the time fly away. There are a lot of online courses that you can take in this free time. Here I will try to mention topic wise free course links of different online course platforms. Feel free to give me a knock if you have any particular topic you are interested in that is not mentioned in this post.<br/>
 
 #### Java:<br/>
