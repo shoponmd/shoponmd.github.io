@@ -35,7 +35,6 @@ bigimg: '/img/home.gif'
           <br>
           About Me
         </h1>
-      
       </div>
     </div>
   </div>
@@ -50,7 +49,6 @@ bigimg: '/img/home.gif'
         <h1>
           I write about <span class="typed" style="color:#890000" ;></span>
         </h1>
-      
       </div>
     </div>
   </div>
@@ -63,16 +61,13 @@ bigimg: '/img/home.gif'
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
       <h2 class="post-title">{{ post.title }}</h2>
-
       {% if post.subtitle %}
       <h3 class="post-subtitle">
         {{ post.subtitle }}
       </h3>
       {% endif %}
     </a>
-
     <p class="post-meta">Posted on {{ post.date | date: '%B %-d, %Y' }}</p>
-
     <div class="post-entry-container">
       {% if post.image %}
       <div class="post-image">
@@ -97,7 +92,6 @@ bigimg: '/img/home.gif'
         {% endif %}
       </div>
     </div>
-
     {% if post.tags.size > 0 %}
     <div class="blog-tags">
       Tags: {% if site.link-tags %} {% for tag in post.tags %}
