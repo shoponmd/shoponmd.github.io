@@ -14,6 +14,10 @@ This is a collection of the research work that I have done till now.
 - **Publication Year:** 2017
 - **Authors**: Biswas, M., Islam, R., Shom, G. K., Shopon, M., Mohammed, N., Momen, S., & Abedin, A
 - **Link:** https://www.sciencedirect.com/science/article/pii/S2352340917301117
+<details>
+  <summary>- **Abstract**</summary>
+  BanglaLekha-Isolated, a Bangla handwritten isolated character dataset is presented in this article. This dataset contains 84 different characters comprising of 50 Bangla basic characters, 10 Bangla numerals and 24 selected compound characters. 2000 handwriting samples for each of the 84 characters were collected, digitized and pre-processed. After discarding mistakes and scribbles, 1,66,105 handwritten character images were included in the final dataset. The dataset also includes labels indicating the age and the gender of the subjects from whom the samples were collected. This dataset could be used not only for optical handwriting recognition research but also to explore the influence of gender and age on handwriting. The dataset is publicly available at https://data.mendeley.com/datasets/hf6sf8zrkc/2.
+</details>
 
 <br/>
 
