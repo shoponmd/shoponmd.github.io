@@ -23,13 +23,12 @@ tags:
 
 এইগুলো সম্পর্কে জানলেই আপনি মেশিন লার্নিং শুরু করতে পারেন। এখন কথা হচ্ছে, এই টপিক গুলো এক একটা ইউনিভার্সিটি তে ৪-৫ মাস ধরে পড়ানো হয়। কিভাবে এগুলো কভার করবেন? লিনিয়ার এলজেব্রা এবং ক্যালকুলাস এর সব টপিক যে দরকার হয় সেটা না। কিছু খুব স্পেসিফিক জিনিস যানা থাকা দরকার। উপরে লিখিত টপিক গুলো ভালো ভাবে শিখার জন্য নিচের রিসোর্স গুলো ফলো করবেন। 
 
-* অনলাইন কোর্স 
+* অনলাইন কোর্স
   * [Mathematics for Machine Learning by Coursera](https://www.coursera.org/specializations/mathematics-machine-learning)
-
   * [Statistics in Machine Learning](https://www.youtube.com/watch?v=GGZfVeZs_v4&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)
   * [Mathematics for Machine Learning](https://www.youtube.com/watch?v=vLJcduC4lBM&list=PLcQCwsZDEzFmlSc6levE3UV9rZ8yY-D_7)
 
-* বওই 
+* বই 
   * [Book for Learning Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 
 
@@ -38,18 +37,33 @@ tags:
 
 
 <br/>
-      ১) বাংলা ব্লগ: <br/>
-        https://goo.gl/zvcKt2 <br/>
-        https://goo.gl/PmGSDK <br/>
-        https://goo.gl/FaKwQw <br/>
-      ২) ইংলিশ ব্লগ:  <br/>
-       https://goo.gl/8t2Fr8<br/>
-       https://goo.gl/9MMWPK<br/>
-       https://goo.gl/sf8n4U<br/>
-     ৩) ইংলিশ কোর্স:       <br/>
-       https://goo.gl/TJZUmy<br/>
-       https://goo.gl/fWHmdL<br/>
-       https://goo.gl/kM4eYH<br/>
 
-ধন্যবাদ
+### বাংলা ব্লগ: <br/>
+* [হাতেকলমে মেশিন লার্নিং](https://goo.gl/zvcKt2) <br/>
+* [সম্ভাবনাময় মেশিন লার্নিং শুরুর কিছু পথ-নির্দেশিকা](https://goo.gl/PmGSDK) <br/>
+* [জাকিরের টেক ডায়েরি](https://goo.gl/FaKwQw) <br/>
+
+### বাংলা ভিডিও টিউটোরিউয়াল <br/>
+* [Tutorials](https://www.youtube.com/watch?v=-0eynkikmno&list=PL_SlMximwEb4vtf9XDV_iJXtGSZc3Qtz5)<br/>
+
+### ইংলিশ ব্লগ: <br/>
+* [Blog - 1](https://goo.gl/8t2Fr8)<br/>
+* [Blog - 2](https://goo.gl/9MMWPK)<br/>
+* [Blog -3](https://goo.gl/sf8n4U)<br/>
+
+### ইংলিশ কোর্স: <br/>
+* [Coursera Machine Learning](https://goo.gl/TJZUmy)<br/>
+* [EdX Machine Learning](https://goo.gl/fWHmdL)<br/>
+* [Udacity Machine Learning](https://goo.gl/kM4eYH)<br/>
+* [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)<br/>
+* [Udacity Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)<br/>
+
+### ইংরেজি  বই<br/>
+* [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
+* [Deep Learning by Ian Goodfellow](https://www.deeplearningbook.org/)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+
+এর পরও যদি আপনাদের কোন ব্যাপারে যানা থাকে, যেকোন সময় আমার সাথে যোগাযোগ করতে পারেন [এখানে](mailto:shopon@uap-bd.edu?subject=[GitHub]%20Source%20Han%20Sans)
+
+ 
 
