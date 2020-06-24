@@ -6,8 +6,12 @@ bigimg: '/img/home.gif'
 ---
 
 
+<p align="center">
+  <img  src="/img/online_resized.jpg">
+</p>
+<!-- ![Online Course](/img/online_resized.jpg)<br/> -->
+<br/>
 
-![Online Course](/img/online_resized.jpg)
 I am writing this post to the students who are currently passing their time home by doing nothing apart from browsing Facebook. At this time try to do at least some productive things, just don’t let the time fly away. There are a lot of online courses that you can take in this free time. Here I will try to mention topic wise free course links of different online course platforms. Feel free to give me a knock if you have any particular topic you are interested in that is not mentioned in this post.<br/>
 
 #### Java:<br/>
