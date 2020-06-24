@@ -5,6 +5,7 @@ author: "Shopon"
 avatar: /img/authors/shopon.jpg
 image: /img/online_resized.jpg
 title: Utilize your time by taking any of these free of cost online courses 
+bigimg: '/img/home.gif'
 tags:
   - Online Course
   - Free online course 
@@ -12,7 +13,26 @@ tags:
   - Free programming online course
   - Free course online
 ---
-
+<!-- Typed.js -->
+<script src="/js/jquery-1.11.2.min.js"></script>
+<!-- Typed.js uses old jquery ver -->
+<script src="/js/typed.js" type="text/javascript"></script>
+<script>
+  $(function() {
+    $('.typed').typed({
+      strings: [
+        'Research.',
+        'Programming.',
+        'Higher Study.',
+        'Learning.',
+        'Travel.'
+      ],
+      typeSpeed: 100,
+      loop: true,
+      backDelay: 1000
+    });
+  });
+</script>
 I am writing this post to the students who are currently passing their time home by doing nothing apart from browsing Facebook. At this time try to do at least some productive things, just don’t let the time fly away. There are a lot of online courses that you can take in this free time. Here I will try to mention topic wise free course links of different online course platforms. Feel free to give me a knock if you have any particular topic you are interested in that is not mentioned in this post.<br/>
 
 #### Java:<br/>
