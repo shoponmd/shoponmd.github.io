@@ -22,8 +22,8 @@ tags:
 <details>
 <summary>প্রশ্নঃ আমার সিজিপিএ ভালো না, আমি কি স্কলারশিপ পাবার আশা করতে পারি? 
 </summary>
-<p>This portion has been written by Dr. Abdullah Al Maruf (University of Toronto). Collected from [PBSCU](http://www.pbscu.ca/faq.html). <br/> 
-গ্রুপ এ প্রতিদিন ই কিছু কমন প্রশ্ন আসে, যেমনঃ<p>
+<p>This portion has been written by Dr. Abdullah Al Maruf (University of Toronto). Collected from [PBSCU](http://www.pbscu.ca/faq.html). </p> 
+গ্রুপ এ প্রতিদিন ই কিছু কমন প্রশ্ন আসে, যেমনঃ
 <ul>
 <li> আমার CGPA কম, আমি কি কানাডাতে ফান্ড সহ পড়তে পারবো না? </li>
 <li> আমার কোন পাব্লিসড পেপার নেই, আমি কি কানাডাতে ফান্ড সহ পড়তে পারবো না?</li>
