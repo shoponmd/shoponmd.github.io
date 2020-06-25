@@ -22,20 +22,20 @@ tags:
 <details>
 <summary>প্রশ্নঃ আমার সিজিপিএ ভালো না, আমি কি স্কলারশিপ পাবার আশা করতে পারি? 
 </summary>
-=> This portion has been written by Dr. Abdullah Al Maruf (University of Toronto). Collected from PBSCU. 
-গ্রুপ এ প্রতিদিন ই কিছু কমন প্রশ্ন আসে, যেমনঃ
-১) আমার CGPA কম, আমি কি কানাডাতে ফান্ড সহ পড়তে পারবো না?
-২) আমার কোন পাব্লিসড পেপার নেই, আমি কি কানাডাতে ফান্ড সহ পড়তে পারবো না?
+This portion has been written by Dr. Abdullah Al Maruf (University of Toronto). Collected from PBSCU. <br/> 
+গ্রুপ এ প্রতিদিন ই কিছু কমন প্রশ্ন আসে, যেমনঃ<br/>
+* আমার CGPA কম, আমি কি কানাডাতে ফান্ড সহ পড়তে পারবো না?
+* আমার কোন পাব্লিসড পেপার নেই, আমি কি কানাডাতে ফান্ড সহ পড়তে পারবো না?
 এই প্রশ্ন গুলির উত্তর আমি খুব সর্ট এ বুজিয়ে বলবো। আশা করি এই পোস্ট পড়ার পর এই বিষয়ে আপনাকে আর পোস্ট দিতে হবে না।
 এই পোস্টটি বাংলা এবং English দুইটা ভাষা ব্যাবহার করে লেখা। বাংলা বানান ভুল থাকতে পারে।
-What makes you a perfect candidate for a graduate student position (funded and thesis-based) in Canada?
-১) CGPA:
+What makes you a perfect candidate for a graduate student position (funded and thesis-based) in Canada?<br/>
+1. CGPA:
 এইটা খুব একটা জরুরী বিষয় না আবার ফেলে দেয়ার মতোও না। যে স্টুডেন্টটা দিন রাত কষ্ট করে ভালো CGPA তুলেছে, আর যে তুলতে পারে নাই তাদের একদম সেইম ভাবা ঠিক না। ভালো CGPA থাকলে প্রোফেসররা বুঝে আপনি গ্রাড স্টুডেন্ট কোর্সওয়ার্ক এ ভালো করবেন। কোর্সওয়ার্ক নর্থ অ্যামেরিকা এর গ্রাড লেভেল এ অনেক গুরুত্বপূর্ণ। আপনি যেয়ে কোর্স এ ফেল করলে আপনার যেমন লজ্জা প্রোফেসার এর ও একই রকম লজ্জা।
 তবে এই বিষয় এ কিছু টিপস মেনে চলুনঃ
-In Bangladesh, different universities use different grading systems (% is not the same). Universities in Canada, use their own system (which they do not disclose always) to calculate your CGPA. Generally, if you have a CGPA 3.0 out of 4.0 scare, you are good to go.
->> CGPA 3.0 is same as CGPA 4.0, if you do not have any other qualifications (which I will be discussing next).
+* In Bangladesh, different universities use different grading systems (% is not the same). Universities in Canada, use their own system (which they do not disclose always) to calculate your CGPA. Generally, if you have a CGPA 3.0 out of 4.0 scare, you are good to go.
+* CGPA 3.0 is same as CGPA 4.0, if you do not have any other qualifications (which I will be discussing next).
 Some of you may have a low CGPA like 2.5-2.9. This can happen and this low CGPA does not disqualify you to apply for a funded, thesis-based program. If you have a low CGPA, read the next part of this writing. >> If you are from the marks-based program, a first-class (more than) 60% is good enough.
-২) রিসার্চ ্রোফাইলঃ
+2. রিসার্চ ্রোফাইলঃ
 আপনি যদি গবেষণা করতে চান, একটি Cut-Off CGPA (ধরেন ৩.০) এর পর প্রোফেসর বা ভর্তি কমিটি আপনার CGPA নিয়ে আর গুতাবে না। আপনাকে সে টাকা দেবে গবেষণা করার জন্য তাই তার নেক্সট টার্গেট থাকবে আপনি তার গ্রুপ এ কতোটা কার্যকরী হবেন। অনেক প্রফেসার experienced স্টুডেন্ট চায়, কারন এতে দ্রুতি তার কাজ আগাবে। আবার অনেকে একদম ফ্রেশ (কাজ করতে সদা উৎসাহী) খুজে বেড়ায়। কারন ফ্রেশরা বেশি কথা না বলে বেশি কামলা দেবে।
 এই বিষয় এ কিছু টিপস মেনে চলুনঃ
 * আপানার যদি সুপার প্রোফাইল না হয়, তবে সরাসরি ফাইল সাবমিট করে কোন লাভ নাই। (তবে অনেক প্রোগ্রাম সরাসরি আপ্পলাই করতে বলে, কিন্তু তাদের সংখ্যা নগণ্য।
