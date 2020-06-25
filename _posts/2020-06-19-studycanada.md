@@ -24,25 +24,25 @@ tags:
 </summary>
 This portion has been written by Dr. Abdullah Al Maruf (University of Toronto). Collected from PBSCU. <br/> 
 গ্রুপ এ প্রতিদিন ই কিছু কমন প্রশ্ন আসে, যেমনঃ<br/>
-* আমার CGPA কম, আমি কি কানাডাতে ফান্ড সহ পড়তে পারবো না?
-* আমার কোন পাব্লিসড পেপার নেই, আমি কি কানাডাতে ফান্ড সহ পড়তে পারবো না?
+- আমার CGPA কম, আমি কি কানাডাতে ফান্ড সহ পড়তে পারবো না?
+- আমার কোন পাব্লিসড পেপার নেই, আমি কি কানাডাতে ফান্ড সহ পড়তে পারবো না?
 এই প্রশ্ন গুলির উত্তর আমি খুব সর্ট এ বুজিয়ে বলবো। আশা করি এই পোস্ট পড়ার পর এই বিষয়ে আপনাকে আর পোস্ট দিতে হবে না।
 এই পোস্টটি বাংলা এবং English দুইটা ভাষা ব্যাবহার করে লেখা। বাংলা বানান ভুল থাকতে পারে।
 What makes you a perfect candidate for a graduate student position (funded and thesis-based) in Canada?<br/>
 1. CGPA:
 এইটা খুব একটা জরুরী বিষয় না আবার ফেলে দেয়ার মতোও না। যে স্টুডেন্টটা দিন রাত কষ্ট করে ভালো CGPA তুলেছে, আর যে তুলতে পারে নাই তাদের একদম সেইম ভাবা ঠিক না। ভালো CGPA থাকলে প্রোফেসররা বুঝে আপনি গ্রাড স্টুডেন্ট কোর্সওয়ার্ক এ ভালো করবেন। কোর্সওয়ার্ক নর্থ অ্যামেরিকা এর গ্রাড লেভেল এ অনেক গুরুত্বপূর্ণ। আপনি যেয়ে কোর্স এ ফেল করলে আপনার যেমন লজ্জা প্রোফেসার এর ও একই রকম লজ্জা।
 তবে এই বিষয় এ কিছু টিপস মেনে চলুনঃ
-* In Bangladesh, different universities use different grading systems (% is not the same). Universities in Canada, use their own system (which they do not disclose always) to calculate your CGPA. Generally, if you have a CGPA 3.0 out of 4.0 scare, you are good to go.
-* CGPA 3.0 is same as CGPA 4.0, if you do not have any other qualifications (which I will be discussing next).
+- In Bangladesh, different universities use different grading systems (% is not the same). Universities in Canada, use their own system (which they do not disclose always) to calculate your CGPA. Generally, if you have a CGPA 3.0 out of 4.0 scare, you are good to go.
+- CGPA 3.0 is same as CGPA 4.0, if you do not have any other qualifications (which I will be discussing next).
 Some of you may have a low CGPA like 2.5-2.9. This can happen and this low CGPA does not disqualify you to apply for a funded, thesis-based program. If you have a low CGPA, read the next part of this writing. >> If you are from the marks-based program, a first-class (more than) 60% is good enough.
 2. রিসার্চ ্রোফাইলঃ
 আপনি যদি গবেষণা করতে চান, একটি Cut-Off CGPA (ধরেন ৩.০) এর পর প্রোফেসর বা ভর্তি কমিটি আপনার CGPA নিয়ে আর গুতাবে না। আপনাকে সে টাকা দেবে গবেষণা করার জন্য তাই তার নেক্সট টার্গেট থাকবে আপনি তার গ্রুপ এ কতোটা কার্যকরী হবেন। অনেক প্রফেসার experienced স্টুডেন্ট চায়, কারন এতে দ্রুতি তার কাজ আগাবে। আবার অনেকে একদম ফ্রেশ (কাজ করতে সদা উৎসাহী) খুজে বেড়ায়। কারন ফ্রেশরা বেশি কথা না বলে বেশি কামলা দেবে।
 এই বিষয় এ কিছু টিপস মেনে চলুনঃ
-* আপানার যদি সুপার প্রোফাইল না হয়, তবে সরাসরি ফাইল সাবমিট করে কোন লাভ নাই। (তবে অনেক প্রোগ্রাম সরাসরি আপ্পলাই করতে বলে, কিন্তু তাদের সংখ্যা নগণ্য।
-* প্রফেসার মেনেজ করুন। কিভাবে ইমেইল করবেন গ্রুপ এ এই বেপারে ফাইল আছে, পড়ুন। প্রোফেসার কাছে আপানার দুইটা জিনিশ খুব গুরুত্বপূর্ণ - এই স্টুডেন্ট তাকে উদ্দেশ্য করে ইমেইলটা করেছে নাকি গণ মেইল! দ্বিতীয়ত, স্টুডেন্ট টা কি পরিমান প্রফ এর ফিল্ড এ কাজ করেছে বা তার ফিল্ড এ কাজ করতে highly motivated কিনা।
-* Research experience does not mean published papers. In you CV, you must mention what type of research that you did, what techniques that you know and what research output is published or in progress (e.g., is there any paper that you submitted, any conference paper, any thing that you wrote by yourself that reflects your writing skills?). A fully published paper is not necessary for admission.
-* Scientific Writing skill in English is very important. You could be a very good writer in English but scientific writing is not the same as general writing. Your e-mail and SOPs will reflect that skills - How to communicate with an academic researcher. "Hi Bro" should definitely be avoided. An IELTS score (whether university requires it or not or more than 7.5 will impress a professor whose work needs a good English writer).
-* If you do not have any research experience, try convincing professors by showing your motivation to the field. In this case, your concept must be clear during e-mail conversations as well as skype interviews. >> Over-qualification is a problem. Most professors will not consider someone for a M.Sc. with a PhD level experiences. Because they know these people may be difficult to control.
+- আপানার যদি সুপার প্রোফাইল না হয়, তবে সরাসরি ফাইল সাবমিট করে কোন লাভ নাই। (তবে অনেক প্রোগ্রাম সরাসরি আপ্পলাই করতে বলে, কিন্তু তাদের সংখ্যা নগণ্য।
+- প্রফেসার মেনেজ করুন। কিভাবে ইমেইল করবেন গ্রুপ এ এই বেপারে ফাইল আছে, পড়ুন। প্রোফেসার কাছে আপানার দুইটা জিনিশ খুব গুরুত্বপূর্ণ - এই স্টুডেন্ট তাকে উদ্দেশ্য করে ইমেইলটা করেছে নাকি গণ মেইল! দ্বিতীয়ত, স্টুডেন্ট টা কি পরিমান প্রফ এর ফিল্ড এ কাজ করেছে বা তার ফিল্ড এ কাজ করতে highly motivated কিনা।
+- Research experience does not mean published papers. In you CV, you must mention what type of research that you did, what techniques that you know and what research output is published or in progress (e.g., is there any paper that you submitted, any conference paper, any thing that you wrote by yourself that reflects your writing skills?). A fully published paper is not necessary for admission.
+- Scientific Writing skill in English is very important. You could be a very good writer in English but scientific writing is not the same as general writing. Your e-mail and SOPs will reflect that skills - How to communicate with an academic researcher. "Hi Bro" should definitely be avoided. An IELTS score (whether university requires it or not or more than 7.5 will impress a professor whose work needs a good English writer).
+- If you do not have any research experience, try convincing professors by showing your motivation to the field. In this case, your concept must be clear during e-mail conversations as well as skype interviews. >> Over-qualification is a problem. Most professors will not consider someone for a M.Sc. with a PhD level experiences. Because they know these people may be difficult to control.
 শেষ কথা হল, "২" টা খুব গুরুত্বপূর্ণ। "২" তে ভালো করে আপনি low CGPA সমস্যা দূর করতে পারবেন।
 N.B. Whether you graduated from a public or a private university, does not matter for thesis-based research.
 </details>
@@ -75,8 +75,11 @@ N.B. Whether you graduated from a public or a private university, does not matte
 
 কানাডা তে বছরে ৩ টি সেমিস্টার হয়ে থাকে। ফল(সেপ্টেম্বর), উইন্টার(জানুয়ারি), সামার(মে)। কিন্তু আপনি যদি স্কলারশিপ অথবা ফান্ডিং এর টার্গেট রাখেন তাহলে ফল সেমিস্টার টা আপনার টার্গেট করতে হবে। আপনি যদি ফল সেমিস্টার এ যেতে চান, মনে রাখবেন, আপনার প্রিপারেশন অন্তত ১ বছর আগ থেকে নিতে হবে। হ্যাঁ !! ১ বছর !! উচ্চশিক্ষার সম্পুর্ণ প্রসেস টা অনেক লম্বা। তার মানে হচ্ছে আপনি যদি ২০২২ সালের সেপ্টেম্বর মাসে কানাডা পরতে যেতে চান তাহলে আপনার ২০২১ সালের সেপ্টেম্বর থেকে প্রিপারাশেন নেয়া শুরু করতে হবে। আমি আপনাদের এই পুরো ১ বছরের টাইমলাইন সম্পর্কে ডিটেল এ বলব এবং এই টাইমলাইন এর ব্যপারে বলতে বলতেই আমি বিভিন্ন প্রশ্নের উত্তর দিয়ে যাবো। 
 
-প্রশ্নঃ তাহলে অন্য কোন সময়ে কি এপ্লাই করা যায় না ?
-=> হ্যাঁ, ফল সেমিস্টার বাদে অন্যান্য সেমিস্টার এও আপনি যেতে পারেন, কিন্তু অন্যান্য সেমিস্টার এ ফান্ডিং এর পরিমাণ টা একটু কম থাকে, তাই ফল সেমিস্টার টাই সবচেয়ে ভালো। 
+<details>
+<summary>প্রশ্নঃ তাহলে অন্য কোন সময়ে কি এপ্লাই করা যায় না ?  
+</summary>
+হ্যাঁ, ফল সেমিস্টার বাদে অন্যান্য সেমিস্টার এও আপনি যেতে পারেন, কিন্তু অন্যান্য সেমিস্টার এ ফান্ডিং এর পরিমাণ টা একটু কম থাকে, তাই ফল সেমিস্টার টাই সবচেয়ে ভালো। 
+</details>
 
 ## 2. স্কলারশিপ বা ফান্ডিং ব্যাপার টা আসলে কি? 
 মূলত কয়েকভাবে আপনি কানাডা তে স্কলারশিপ পেয়ে থাকতে পারেন। আমি মুল দুইটা আপনাকে তুলে ধরছি।
@@ -87,12 +90,17 @@ N.B. Whether you graduated from a public or a private university, does not matte
 
 কিভাবে এই স্কলারশিপ বা ফান্ডিং ব্যাবস্থা করতে হবে সে ব্যপারেই পোষ্ট এ আলোচনা করা হবে। 
 
-৩) আমি কিভাবে শুরু করব?
+## 3. আমি কিভাবে শুরু করব?
 
 প্রথম কাজঃ কানাডা অথবা যেকোন দেশেই উচ্চশিক্ষায় যাবার প্রথম যেই জিনিস টি দরকার হয় ইংরেজি ভাষার দক্ষতা। ইংরেজি ভাষায় দক্ষতা প্রমাণ এর জন্য কয়েকটি পরীক্ষা আছে যেমন জিআরই, আইএলটিএস, টোফেল। কানাডায় জিআরই দেয়া টা বাধত্যামূলক না। আপনার আইএলটিএস অথবা টোফেল যেকোন একটা পরীক্ষা দিতে হবে। আইএলটিএস অথবা টোফেল এর প্রিপারেশন নেয়ার কিছু রিসোর্স আমি দিয়ে দিচ্ছি আপনাদের। মনে রাখতে হবে, এই দুটি পরীক্ষার যেকোন একটা আপনার দিতে হবে, দুইটিই না। যদি সম্ভব হয় প্রিপারেশন টাইমলাইন এর আগেই আপনার এই পরীক্ষা গুলো দিয়ে দিলে ভালো পরে দিলেও সমস্যা নেই। কিন্তু অক্টোবর এর আগে অবশ্যই দিয়ে দিবেন তাহলে আপনার জন্য কাজ অনেক সহজ হবে। Please visit this link: http://www.pbscu.ca/ieltsgre.html
 
-প্রশ্নঃ আইএলটিএস এর স্কোর কত রাখা উচিত? 
-=> ভালো ইউনিভারসিটি গুলোতে এডমিশন পেতে চাইলে কমপক্ষে ৭.০ রাখা উচিত। সাথে অবশ্যই কোন ব্যান্ড এ ৬.৫ এর কম পাওয়া যাবে না। বিভিন্ন ইউনিভারসিটির বিভিন্ন ধরনের রিকুয়ারমেন্ট থাকে। ওয়েবসাইট এ গেলেই পেয়ে যাবেন।  
+<details>
+<summary>প্প্রশ্নঃ আইএলটিএস এর স্কোর কত রাখা উচিত? 
+
+</summary>
+ভালো ইউনিভারসিটি গুলোতে এডমিশন পেতে চাইলে কমপক্ষে ৭.০ রাখা উচিত। সাথে অবশ্যই কোন ব্যান্ড এ ৬.৫ এর কম পাওয়া যাবে না। বিভিন্ন ইউনিভারসিটির বিভিন্ন ধরনের রিকুয়ারমেন্ট থাকে। ওয়েবসাইট এ গেলেই পেয়ে যাবেন।  
+</details>
+
 
 প্রশ্নঃ "আমি আইইএলটিএস এ 5.5/6.0/6.5 পেয়েছি (অথবা আইইএলটিএস দেইই নাই), আমি কি কানাডায় ফুল স্কলারশীপ নিয়ে পড়তে পারব??!"
 => This portion has been written by Rakib Hussain, Master of Arts, Communications, Mount Saint Vincent University. Collected from PBSCU
