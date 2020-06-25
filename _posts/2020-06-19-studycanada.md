@@ -19,37 +19,34 @@ tags:
 
 উচ্চশিক্ষায় যাওয়া অনেকেরই অনেক লম্বা সময়ের স্বপ্ন থাকে অথবা একটা নির্দিষ্ট সময়ের পর অনেকের ই এই স্বপ্ন টা মনে বাসা বুনতে থাকে। কিন্তু অনেক সময় ভালো গাইডলাইন না পাবার কারণে অনেকেই এই স্বপ্ন টা সার্থক করতে পারে না। আমি এই পোস্ট টাতে চেষ্ঠা করব কিভাবে ফুল ফান্ডিং অথবা স্কলারশিপ নিয়ে স্নাতকোত্তর/মাস্টার্স করার জন্য নিজেকে তৈরি করতে হবে। সাথে কিছু প্রশ্নের উত্তর ও আমি দিয়ে দিবো যেগুলো অনেকেই করে থাকে। আমার এই পোস্ট টা খুব বেশি কাজে দিবে যারা কম্পিউটার সায়েন্স অথবা ইলেকট্রিকাল ইঞ্জিনিয়ারিং থেকে আন্ডারগ্রেড শেষ করেছেন তাদের জন্য। “Prospective Bangladeshi Students in Canadian Universities (PBSCU)” নামে ফেইসবুক এ একটি কমিউনিটি আছে। যাদের কানাডা তে পড়াশুনা করার ব্যাপারে ইচ্ছা আছে তাদেরকে বলব অবশ্যই আপনারা এই গ্রুপে জয়েন করবেন। আমি আমার উচ্চশিক্ষার ব্যাপারে প্রচুর হেল্প পেয়েছি এই গ্রুপ থেকে এবং এখানে অনেক সুন্দর সুন্দর গাইডলাইন আছে। আমি আমার এই ব্লগ পোস্টে অনেক যায়গা তেই তাদের বিভিন্ন ডকুমেন্ট কে রেফারেন্স হিসেবে দিব। বিভিন্ন সাবজেক্ট ভিত্তিক গাইডলাইন এর জন্য এই ডকুমেন্ট টা একটু দেখতে পারেন। http://www.pbscu.ca/graduate.html
 
-প্রশ্নঃ আমার সিজিপিএ ভালো না, আমি কি স্কলারশিপ পাবার আশা করতে পারি? 
+<details>
+<summary>প্রশ্নঃ আমার সিজিপিএ ভালো না, আমি কি স্কলারশিপ পাবার আশা করতে পারি? 
+</summary>
 => This portion has been written by Dr. Abdullah Al Maruf (University of Toronto). Collected from PBSCU. 
 গ্রুপ এ প্রতিদিন ই কিছু কমন প্রশ্ন আসে, যেমনঃ
 ১) আমার CGPA কম, আমি কি কানাডাতে ফান্ড সহ পড়তে পারবো না?
 ২) আমার কোন পাব্লিসড পেপার নেই, আমি কি কানাডাতে ফান্ড সহ পড়তে পারবো না?
-
 এই প্রশ্ন গুলির উত্তর আমি খুব সর্ট এ বুজিয়ে বলবো। আশা করি এই পোস্ট পড়ার পর এই বিষয়ে আপনাকে আর পোস্ট দিতে হবে না।
 এই পোস্টটি বাংলা এবং English দুইটা ভাষা ব্যাবহার করে লেখা। বাংলা বানান ভুল থাকতে পারে।
-
 What makes you a perfect candidate for a graduate student position (funded and thesis-based) in Canada?
-
 ১) CGPA:
 এইটা খুব একটা জরুরী বিষয় না আবার ফেলে দেয়ার মতোও না। যে স্টুডেন্টটা দিন রাত কষ্ট করে ভালো CGPA তুলেছে, আর যে তুলতে পারে নাই তাদের একদম সেইম ভাবা ঠিক না। ভালো CGPA থাকলে প্রোফেসররা বুঝে আপনি গ্রাড স্টুডেন্ট কোর্সওয়ার্ক এ ভালো করবেন। কোর্সওয়ার্ক নর্থ অ্যামেরিকা এর গ্রাড লেভেল এ অনেক গুরুত্বপূর্ণ। আপনি যেয়ে কোর্স এ ফেল করলে আপনার যেমন লজ্জা প্রোফেসার এর ও একই রকম লজ্জা।
 তবে এই বিষয় এ কিছু টিপস মেনে চলুনঃ
->> In Bangladesh, different universities use different grading systems (% is not the same). Universities in Canada, use their own system (which they do not disclose always) to calculate your CGPA. Generally, if you have a CGPA 3.0 out of 4.0 scare, you are good to go.
+In Bangladesh, different universities use different grading systems (% is not the same). Universities in Canada, use their own system (which they do not disclose always) to calculate your CGPA. Generally, if you have a CGPA 3.0 out of 4.0 scare, you are good to go.
 >> CGPA 3.0 is same as CGPA 4.0, if you do not have any other qualifications (which I will be discussing next).
-​>> Some of you may have a low CGPA like 2.5-2.9. This can happen and this low CGPA does not disqualify you to apply for a funded, thesis-based program. If you have a low CGPA, read the next part of this writing. >> If you are from the marks-based program, a first-class (more than) 60% is good enough.
-
+Some of you may have a low CGPA like 2.5-2.9. This can happen and this low CGPA does not disqualify you to apply for a funded, thesis-based program. If you have a low CGPA, read the next part of this writing. >> If you are from the marks-based program, a first-class (more than) 60% is good enough.
 ২) রিসার্চ ্রোফাইলঃ
 আপনি যদি গবেষণা করতে চান, একটি Cut-Off CGPA (ধরেন ৩.০) এর পর প্রোফেসর বা ভর্তি কমিটি আপনার CGPA নিয়ে আর গুতাবে না। আপনাকে সে টাকা দেবে গবেষণা করার জন্য তাই তার নেক্সট টার্গেট থাকবে আপনি তার গ্রুপ এ কতোটা কার্যকরী হবেন। অনেক প্রফেসার experienced স্টুডেন্ট চায়, কারন এতে দ্রুতি তার কাজ আগাবে। আবার অনেকে একদম ফ্রেশ (কাজ করতে সদা উৎসাহী) খুজে বেড়ায়। কারন ফ্রেশরা বেশি কথা না বলে বেশি কামলা দেবে।
-
 এই বিষয় এ কিছু টিপস মেনে চলুনঃ
->> আপানার যদি সুপার প্রোফাইল না হয়, তবে সরাসরি ফাইল সাবমিট করে কোন লাভ নাই। (তবে অনেক প্রোগ্রাম সরাসরি আপ্পলাই করতে বলে, কিন্তু তাদের সংখ্যা নগণ্য।
->> প্রফেসার মেনেজ করুন। কিভাবে ইমেইল করবেন গ্রুপ এ এই বেপারে ফাইল আছে, পড়ুন। প্রোফেসার কাছে আপানার দুইটা জিনিশ খুব গুরুত্বপূর্ণ - এই স্টুডেন্ট তাকে উদ্দেশ্য করে ইমেইলটা করেছে নাকি গণ মেইল! দ্বিতীয়ত, স্টুডেন্ট টা কি পরিমান প্রফ এর ফিল্ড এ কাজ করেছে বা তার ফিল্ড এ কাজ করতে highly motivated কিনা।
->> Research experience does not mean published papers. In you CV, you must mention what type of research that you did, what techniques that you know and what research output is published or in progress (e.g., is there any paper that you submitted, any conference paper, any thing that you wrote by yourself that reflects your writing skills?). A fully published paper is not necessary for admission.
->> Scientific Writing skill in English is very important. You could be a very good writer in English but scientific writing is not the same as general writing. Your e-mail and SOPs will reflect that skills - How to communicate with an academic researcher. "Hi Bro" should definitely be avoided. An IELTS score (whether university requires it or not or more than 7.5 will impress a professor whose work needs a good English writer).
->> If you do not have any research experience, try convincing professors by showing your motivation to the field. In this case, your concept must be clear during e-mail conversations as well as skype interviews. >> Over-qualification is a problem. Most professors will not consider someone for a M.Sc. with a PhD level experiences. Because they know these people may be difficult to control.
-
+* আপানার যদি সুপার প্রোফাইল না হয়, তবে সরাসরি ফাইল সাবমিট করে কোন লাভ নাই। (তবে অনেক প্রোগ্রাম সরাসরি আপ্পলাই করতে বলে, কিন্তু তাদের সংখ্যা নগণ্য।
+* প্রফেসার মেনেজ করুন। কিভাবে ইমেইল করবেন গ্রুপ এ এই বেপারে ফাইল আছে, পড়ুন। প্রোফেসার কাছে আপানার দুইটা জিনিশ খুব গুরুত্বপূর্ণ - এই স্টুডেন্ট তাকে উদ্দেশ্য করে ইমেইলটা করেছে নাকি গণ মেইল! দ্বিতীয়ত, স্টুডেন্ট টা কি পরিমান প্রফ এর ফিল্ড এ কাজ করেছে বা তার ফিল্ড এ কাজ করতে highly motivated কিনা।
+* Research experience does not mean published papers. In you CV, you must mention what type of research that you did, what techniques that you know and what research output is published or in progress (e.g., is there any paper that you submitted, any conference paper, any thing that you wrote by yourself that reflects your writing skills?). A fully published paper is not necessary for admission.
+* Scientific Writing skill in English is very important. You could be a very good writer in English but scientific writing is not the same as general writing. Your e-mail and SOPs will reflect that skills - How to communicate with an academic researcher. "Hi Bro" should definitely be avoided. An IELTS score (whether university requires it or not or more than 7.5 will impress a professor whose work needs a good English writer).
+* If you do not have any research experience, try convincing professors by showing your motivation to the field. In this case, your concept must be clear during e-mail conversations as well as skype interviews. >> Over-qualification is a problem. Most professors will not consider someone for a M.Sc. with a PhD level experiences. Because they know these people may be difficult to control.
 শেষ কথা হল, "২" টা খুব গুরুত্বপূর্ণ। "২" তে ভালো করে আপনি low CGPA সমস্যা দূর করতে পারবেন।
 N.B. Whether you graduated from a public or a private university, does not matter for thesis-based research.
 
+<br/>
 
 
 প্রশ্নঃ কি পরিমাণ টাকা পয়সা দরকার হবে পুরো এপ্লিকেশন প্রসেস এ? 
