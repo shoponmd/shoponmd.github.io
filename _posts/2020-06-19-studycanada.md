@@ -43,16 +43,16 @@ tags:
 <li>রিসার্চ প্রোফ্রাইল </li>
 আপনি যদি গবেষণা করতে চান, একটি Cut-Off CGPA (ধরেন ৩.০) এর পর প্রোফেসর বা ভর্তি কমিটি আপনার CGPA নিয়ে আর গুতাবে না। আপনাকে সে টাকা দেবে গবেষণা করার জন্য তাই তার নেক্সট টার্গেট থাকবে আপনি তার গ্রুপ এ কতোটা কার্যকরী হবেন। অনেক প্রফেসার experienced স্টুডেন্ট চায়, কারন এতে দ্রুতি তার কাজ আগাবে। আবার অনেকে একদম ফ্রেশ (কাজ করতে সদা উৎসাহী) খুজে বেড়ায়। কারন ফ্রেশরা বেশি কথা না বলে বেশি কামলা দেবে।
 এই বিষয় এ কিছু টিপস মেনে চলুনঃ <br/>
-<ul>
-<li> আপানার যদি সুপার প্রোফাইল না হয়, তবে সরাসরি ফাইল সাবমিট করে কোন লাভ নাই। (তবে অনেক প্রোগ্রাম সরাসরি আপ্পলাই করতে বলে, কিন্তু তাদের সংখ্যা নগণ্য। </li>
-<li> প্রফেসার মেনেজ করুন। কিভাবে ইমেইল করবেন গ্রুপ এ এই বেপারে ফাইল আছে, পড়ুন। প্রোফেসার কাছে আপানার দুইটা জিনিশ খুব গুরুত্বপূর্ণ - এই স্টুডেন্ট তাকে উদ্দেশ্য করে ইমেইলটা করেছে নাকি গণ মেইল! দ্বিতীয়ত, স্টুডেন্ট টা কি পরিমান প্রফ এর ফিল্ড এ কাজ করেছে বা তার ফিল্ড এ কাজ করতে highly motivated কিনা। </li>
-<li> Research experience does not mean published papers. In you CV, you must mention what type of research that you did, what techniques that you know and what research output is published or in progress (e.g., is there any paper that you submitted, any conference paper, any thing that you wrote by yourself that reflects your writing skills?). A fully published paper is not necessary for admission.</li>
-<li> Scientific Writing skill in English is very important. You could be a very good writer in English but scientific writing is not the same as general writing. Your e-mail and SOPs will reflect that skills - How to communicate with an academic researcher. "Hi Bro" should definitely be avoided. An IELTS score (whether university requires it or not or more than 7.5 will impress a professor whose work needs a good English writer). </li>
-<li> If you do not have any research experience, try convincing professors by showing your motivation to the field. In this case, your concept must be clear during e-mail conversations as well as skype interviews. >> Over-qualification is a problem. Most professors will not consider someone for a M.Sc. with a PhD level experiences. Because they know these people may be difficult to control. </li>
+    <ul>
+        <li> আপানার যদি সুপার প্রোফাইল না হয়, তবে সরাসরি ফাইল সাবমিট করে কোন লাভ নাই। (তবে অনেক প্রোগ্রাম সরাসরি আপ্পলাই করতে বলে, কিন্তু তাদের সংখ্যা নগণ্য। </li>
+        <li> প্রফেসার মেনেজ করুন। কিভাবে ইমেইল করবেন গ্রুপ এ এই বেপারে ফাইল আছে, পড়ুন। প্রোফেসার কাছে আপানার দুইটা জিনিশ খুব গুরুত্বপূর্ণ - এই স্টুডেন্ট তাকে উদ্দেশ্য করে ইমেইলটা করেছে নাকি গণ মেইল! দ্বিতীয়ত, স্টুডেন্ট টা কি পরিমান প্রফ এর ফিল্ড এ কাজ করেছে বা তার ফিল্ড এ কাজ করতে highly motivated কিনা। </li>
+        <li> Research experience does not mean published papers. In you CV, you must mention what type of research that you did, what techniques that you know and what research output is published or in progress (e.g., is there any paper that you submitted, any conference paper, any thing that you wrote by yourself that reflects your writing skills?). A fully published paper is not necessary for admission.</li>
+        <li> Scientific Writing skill in English is very important. You could be a very good writer in English but scientific writing is not the same as general writing. Your e-mail and SOPs will reflect that skills - How to communicate with an academic researcher. "Hi Bro" should definitely be avoided. An IELTS score (whether university requires it or not or more than 7.5 will impress a professor whose work needs a good English writer). </li>
+        <li> If you do not have any research experience, try convincing professors by showing your motivation to the field. In this case, your concept must be clear during e-mail conversations as well as skype interviews. >> Over-qualification is a problem. Most professors will not consider someone for a M.Sc. with a PhD level experiences. Because they know these people may be difficult to control. </li>
+    </ul>
 </ol>
-শেষ কথা হল, "২" টা খুব গুরুত্বপূর্ণ। "২" তে ভালো করে আপনি low CGPA সমস্যা দূর করতে পারবেন। <br/>
-N.B. Whether you graduated from a public or a private university, does not matter for thesis-based research. <br/>
-
+শেষ কথা হল, "২" টা খুব গুরুত্বপূর্ণ। "২" তে ভালো করে আপনি low CGPA সমস্যা দূর করতে পারবেন। 
+N.B. Whether you graduated from a public or a private university, does not matter for thesis-based research. 
 </details>
 
 <details>
