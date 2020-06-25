@@ -45,6 +45,7 @@ Some of you may have a low CGPA like 2.5-2.9. This can happen and this low CGPA 
 * If you do not have any research experience, try convincing professors by showing your motivation to the field. In this case, your concept must be clear during e-mail conversations as well as skype interviews. >> Over-qualification is a problem. Most professors will not consider someone for a M.Sc. with a PhD level experiences. Because they know these people may be difficult to control.
 শেষ কথা হল, "২" টা খুব গুরুত্বপূর্ণ। "২" তে ভালো করে আপনি low CGPA সমস্যা দূর করতে পারবেন।
 N.B. Whether you graduated from a public or a private university, does not matter for thesis-based research.
+</details>
 
 <br/>
 
